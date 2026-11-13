@@ -1,0 +1,12 @@
+com\ranajeet\cloudops\entity\Server.class
+com\ranajeet\cloudops\service\ServerNotFoundException.class
+com\ranajeet\cloudops\controller\ServerController.class
+com\ranajeet\cloudops\repository\ServerRepository.class
+com\ranajeet\cloudops\exception\GlobalExceptionHandler.class
+com\ranajeet\cloudops\controller\HealthController.class
+com\ranajeet\cloudops\security\SecurityNotes.class
+com\ranajeet\cloudops\service\ServerService.class
+com\ranajeet\cloudops\CloudOpsApplication.class
+com\ranajeet\cloudops\config\WebConfig.class
+com\ranajeet\cloudops\monitoring\MonitoringInfo.class
+com\ranajeet\cloudops\dto\ServerRequest.class
